@@ -27,7 +27,7 @@ async def start_message(app, message):
         return
     else:
         pass
-    text = f"Hey! I'm <a href='https://telegra.ph/file/11379aba315ba245ebc7b.jpg'>VideoEncoder</a>. I can encode telegram files in x264.\n\nPress /help for my commands :)"
+    text = f"Hey! I'm <a href='https://te.legra.ph/file/67d7e33f41f050fc3d95e.jpg'>HYBRID Video Compressor / Encoder</a>. I can encode telegram files in x264 (By @Tech_MasterZ).\n\nPress /help for my commands :)"
     await message.reply(text=text, reply_markup=start)
 
 
