@@ -29,7 +29,7 @@ output = InlineKeyboardMarkup([
 start = InlineKeyboardMarkup([
     [InlineKeyboardButton("Developer", url="t.me/Tech_MasterZ"),
      InlineKeyboardButton("Source", url="t.me/Tech_MasterZ")],
-    [InlineKeyboardButton("Support", url="https://t.me/Tech_MasterZ"),
+    [InlineKeyboardButton("Support", url="https://t.me/Tech_MasterZ_Chat"),
      InlineKeyboardButton("Channel", url="t.me/Tech_MasterZ")]
 ])
 
